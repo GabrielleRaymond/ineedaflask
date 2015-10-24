@@ -1,0 +1,40 @@
+{"recipe": {
+
+"name": "Kale Chips",
+
+"description": "Crispy and chewy kale chips baked in the oven and seasoned to perfection. Enjoy these as a healthy alternative to potato chips.",
+
+"prep": ["Preheat oven to 300F","Line large, rimmed baking sheet with parchment paper"],
+
+"rating": 4.5,
+
+"prep_time": {"quantity": 5, "measurement": "minutes"}, 
+
+"cook_time": {"quantity": 25, "measurement": "minutes"},
+
+"makes": "one baking sheet",
+
+"serves": 3,
+
+"ingredients": [
+	{"item": "kale leaves", "quantity": 0.5, "measurement": "bunch", "flag": null},
+	{"item": "olive oil or melted coconut oil", "quantity": 0.5, "measurement": "tablespoon", "flag": null},
+	{"item": "garlic powder", "quantity": 0.5, "measurement": "teaspoon", "flag": null},
+	{"item": "chili powder", "quantity": 0.75, "measurement": "teaspoon", "flag": null},
+	{"item": "onion powder", "quantity": 0.5, "measurement": "teaspoon", "flag": null},
+	{"item": "smoked paprika", "quantity": 0.5, "measurement": "teaspoon", "flag": null},
+	{"item": "sea salt", "quantity": 0.25, "measurement": "teaspoon", "flag": null,
+	{"item": "cayenne pepper", "quantity": 0.125, "measurement": "teaspoon", "flag": "optional"}],
+
+"directions":
+[
+"Remove leaves from the stems of the kale and roughly tear it up into large pieces. Compost the stems (or freeze for smoothies). Wash and spin the leaves until thoroughly dry.",
+"Add kale leaves into a large bowl. Massage in the oil until all the nooks and crannies are coated in oil. Now sprinkle on the spices/seasonings and toss to combine.",
+"Add kale leaves into a large bowl. Massage in the oil until all the nooks and crannies are coated in oil. Now sprinkle on the spices/seasonings and toss to combine.",	
+"Spread out the kale onto the prepared baking sheet into a single layer, being sure not to overcrowd the kale.",
+"Bake for 10 minutes, rotate the pan, and bake for another 12-15 minutes more until the kale begins to firm up. The kale will look shrunken, but this is normal. I bake for 25 mins. total in my oven.",
+"Cool the kale on the sheet for 3 minutes before digging in! This really makes all the difference! Enjoy immediately as they lose their crispiness with time."
+],
+
+
+"notes": "Feel free to make these in a dehydrator if you have one. You can also experiment with the convection or dehydrator setting on your oven (if applicable)."}}
